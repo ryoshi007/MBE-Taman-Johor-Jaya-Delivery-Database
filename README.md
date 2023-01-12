@@ -4,9 +4,10 @@ This is a database assignment done by the undergraduates from the University of 
 ## Installation
 DBMS required - SQL Developer by Oracle
 
-1. Download and run the `Tables-Initiation-and-Data-Insertion.sql`.
-2. Check on the `Business-SQL-Queries.sql` and run these queries on the DBMS.
-3. Enjoy!
+1. Download and open the `Tables Initiation and Data Insertion.sql` in SQL Developer.
+2. Create a new database to coonnect with.
+3. Check on the `Business SQL Queries.sql` and run these queries on the DBMS.
+4. Enjoy! 🤩
 
 ## Group Members   
 
