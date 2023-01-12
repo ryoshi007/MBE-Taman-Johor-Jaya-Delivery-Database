@@ -5,7 +5,7 @@ This is a database assignment done by the undergraduates from the University of 
 DBMS required - SQL Developer by Oracle
 
 1. Download and open the `Tables Initiation and Data Insertion.sql` in SQL Developer.
-2. Create a new database to coonnect with.
+2. Create a new database to connect with.
 3. Check on the `Business SQL Queries.sql` and run these queries on the DBMS.
 4. Enjoy! 🤩
 
